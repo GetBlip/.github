@@ -3,4 +3,4 @@
 </p>
 <h3 align="center">The official GitHub Organization for <a href="https://bittybot.cf/">Bitty</a>.</h3>
 <hr>
-![](https://dcbadge.vercel.app/api/shield/880711098419011584?bot=true)
+![DBot](https://dcbadge.vercel.app/api/shield/880711098419011584?bot=true)
