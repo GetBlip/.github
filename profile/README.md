@@ -1,5 +1,5 @@
 <hr>
 <p align="center">
-  <img src="https://github.com/Bitty-cf/.github/blob/main/github-banner.png?raw=true"/>
+  <img src="https://raw.githubusercontent.com/Bitty-cf/.github/main/GitHubBanner.svg"/>
 </p>
 <hr>
