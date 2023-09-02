@@ -1,3 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bitty-cf/.github/main/BittyGitHubBanner.svg" />
-</p>
+<a href="#" align="center">
+  <img src="https://raw.githubusercontent.com/Bitty-cf/.github/main/BittyGitHubBanner.png" />
+</a>
